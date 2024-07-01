@@ -19,7 +19,7 @@ To work on this project, you'll need:
 
     ```sh
     git clone https://github.com/bahadrkaraca/Cevreci-Ucak.git
-    cd cevreci-ucak
+    cd Cevreci-Ucak
     ```
 
 2. **Open PSD Files:**
